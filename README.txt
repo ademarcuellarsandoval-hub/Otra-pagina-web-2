@@ -1,40 +1,33 @@
-Guía de Estilos y Formatos de Texto
-Demostración de jerarquía tipográfica, estructuras de datos y elementos enriquecidos
 
-1. Introducción y Formato Básico
-El texto plano con formato permite estructurar la información de manera legible y estéticamente agradable.
-Utilizando variaciones tipográficas como cursiva, negrita y subrayado, se puede dirigir la atención del lector hacia
-las ideas principales.
+UNIVERSIDAD NACIONAL
+Facultad de Ingeniería en Industrias Alimentarias
+Escuela Profesional de Ingeniería en Industrias Alimentarias
 
-Nota importante: Mantener una jerarquía clara facilita la lectura rápida y mejora la retención de datos clave
-en cualquier tipo de documento técnico o académico.
 
-2. Listas y Estructuras
-Tipos de Formato Comunes
-Encabezados: Establecen la jerarquía visual del contenido.
-Bloques de Cita: Resaltan declaraciones o fragmentos relevantes.
-Tablas: Organizan datos cuantitativos y cualitativos de forma ordenada.
-Pasos Recomendados para la Redacción
-Definir la estructura básica del contenido.
-Aplicar estilos tipográficos acordes al tono del documento.
-Revisar la consistencia en el uso de viñetas y numeraciones.
-3. Representación de Datos y Fórmulas
-En la redacción técnica, las expresiones matemáticas deben diferenciarse claramente del texto corrido. Por ejemplo,
-la relación de equilibrio hídrico o flujo se representa mediante Q = A × v.
+Para optar el título profesional de Ingeniero en Industrias Alimentarias
+ELABORACIÓN DE YOGURT DE MANZANA
+CON ESPINACA
+Presentado por:	【Nombre del Tesista】
+Asesor:	【Nombre del Asesor】
+Línea de investigación:	Tecnología de lácteos funcionales
+Área:	Ingeniería de alimentos
 
-DBOremovida = ((DBOentrada - DBOsalida) / DBOentrada) × 100
+Ciudad, 2026
+ 
+DEDICATORIA
 
-•
-•
-•
+A mis padres, por su amor incondicional, por enseñarme que el esfuerzo y la perseverancia son la base de todo logro, y por ser el pilar fundamental en mi formación personal y profesional. Su apoyo constante ha sido la motivación que me ha impulsado a superar cada obstáculo en el camino de mi vida académica.
 
-1.
-2.
-3.
+A mis hermanos, por su compañía, comprensión y por compartir cada momento de alegría y de dificultad durante esta etapa universitaria. Su presencia ha hecho más llevadero el arduo camino de la investigación.
 
-4. Cuadro Comparativo
+A mis maestros, por compartir generosamente sus conocimientos y por guiarme con sabiduría en la formulación, desarrollo y culminación de esta tesis. Su orientación académica ha sido determinante para el logro de los objetivos propuestos.
 
-Formato Uso Principal Ejemplo
-Negrita Énfasis en conceptos clave y términos nuevos Texto
-Cursiva Nombres científicos, citas y variables Texto
-Código en línea Comandos, sintaxis o variables de sistema SELECT * FROM
+El autor.
+AGRADECIMIENTOS
+
+Expreso mi más sincero agradecimiento a la Universidad Nacional, en particular a la Facultad de Ingeniería en Industrias Alimentarias, por brindarme los espacios académicos, los laboratorios y los recursos bibliográficos necesarios para la realización de la presente investigación. La formación recibida en sus aulas ha sido fundamental para el desarrollo de las competencias técnicas y analíticas aplicadas en este trabajo.
+Al asesor de tesis, por su orientación permanente, su paciencia y su dedicación durante todas las etapas del proceso investigativo. Sus observaciones críticas, sus aportes metodológicos y su experiencia en el área de tecnología de lácteos permitieron encauzar el estudio hacia resultados académicamente válidos y técnicamente consistentes.
+A los docentes del departamento académico, quienes contribuyeron con sus conocimientos en las áreas de microbiología de alimentos, análisis fisicoquímico, tecnología de productos lácteos y estadística aplicada. Sus enseñanzas constituyen la base teórica sobre la cual se construyó el marco conceptual y metodológico de esta investigación.
+Al personal de los laboratorios de análisis de alimentos, por su colaboración en la ejecución de los ensayos fisicoquímicos y microbiológicos, así como por facilitar el acceso a los equipos e instrumentos necesarios para el control de calidad del producto elaborado. Su apoyo técnico fue indispensable para la obtención de resultados confiables.
+A los panelistas y catadores no entrenados que participaron en la evaluación sensorial del yogurt de manzana con espinaca, por su disposición y tiempo dedicado a las pruebas organolépticas. Su contribución permitió obtener datos representativos sobre la aceptabilidad del producto.
+Finalmente, a mi familia y amigos, por su comprensión, paciencia y apoyo moral durante los meses de trabajo intenso. Su presencia constante fue un estímulo importante para culminar esta etapa de formación profesional.

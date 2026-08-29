@@ -1,37 +1,40 @@
-Story by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Guía de Estilos y Formatos de Texto
+Demostración de jerarquía tipográfica, estructuras de datos y elementos enriquecidos
 
+1. Introducción y Formato Básico
+El texto plano con formato permite estructurar la información de manera legible y estéticamente agradable.
+Utilizando variaciones tipográficas como cursiva, negrita y subrayado, se puede dirigir la atención del lector hacia
+las ideas principales.
 
-Say hello to Story, a brand new responsive one-pager for HTML5 UP! Inspired by my work
-on Carrd*, Story is built to be extremely modular and tweakable, and as such is entirely
-built on reusable, insanely customizable elements (like "spotlight" and "gallery") that
-can be endlessly duplicated and tweaked into whatever you need to tell your story --
-without, in many cases, touching *any* CSS. Check out index-demo.html for an interactive
-demo, and index.html for the actual template. Enjoy!
+Nota importante: Mantener una jerarquía clara facilita la lectura rápida y mejora la retención de datos clave
+en cualquier tipo de documento técnico o académico.
 
-Demo images** courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+2. Listas y Estructuras
+Tipos de Formato Comunes
+Encabezados: Establecen la jerarquía visual del contenido.
+Bloques de Cita: Resaltan declaraciones o fragmentos relevantes.
+Tablas: Organizan datos cuantitativos y cualitativos de forma ordenada.
+Pasos Recomendados para la Redacción
+Definir la estructura básica del contenido.
+Aplicar estilos tipográficos acordes al tono del documento.
+Revisar la consistencia en el uso de viñetas y numeraciones.
+3. Representación de Datos y Fórmulas
+En la redacción técnica, las expresiones matemáticas deben diferenciarse claramente del texto corrido. Por ejemplo,
+la relación de equilibrio hídrico o flujo se representa mediante Q = A × v.
 
-PS: Delete index-demo.html and assets/js/demo.js when you're done messing with the demo
-as neither are needed in production :)
+DBOremovida = ((DBOentrada - DBOsalida) / DBOentrada) × 100
 
-(* = my other side project -- carrd.co)
-(** = not included)
+•
+•
+•
 
-AJ
-aj@lkn.io | @ajlkn
+1.
+2.
+3.
 
+4. Cuadro Comparativo
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Formato Uso Principal Ejemplo
+Negrita Énfasis en conceptos clave y términos nuevos Texto
+Cursiva Nombres científicos, citas y variables Texto
+Código en línea Comandos, sintaxis o variables de sistema SELECT * FROM
